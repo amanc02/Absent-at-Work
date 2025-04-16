@@ -4,7 +4,7 @@
 ## Project Overview
 
 This Power BI project analyzes employee absenteeism using HR data. The goal was to uncover patterns in absentee behavior, identify opportunities for employee wellness programs, and recommend HR policy changes. SQL was used extensively for data cleaning, transformation, and feature engineering before connecting to Power BI for dashboarding.
-
+![Image](https://github.com/user-attachments/assets/ee9a9175-ab61-4064-9fc8-b720a2d4c8e6)
 ---
 
 ## Files Included
